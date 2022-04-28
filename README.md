@@ -8,3 +8,6 @@
 4. Enter all details (domain/database/user information).
 5. Enjoi.
 6. Remember to delete /install folder after setup!
+
+## Demo
+https://fotohub.co.uk
