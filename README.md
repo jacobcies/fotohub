@@ -1,5 +1,6 @@
 # Fotohub
 &#127748; Store, manage and share your photos.
+&#128288; Very simple PHP code.
 
 ## Installation
 1. Download zip folder and extract.
