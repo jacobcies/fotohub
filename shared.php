@@ -37,7 +37,7 @@ include_once("db_connect.php");
 <script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js integrity=sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM crossorigin=anonymous></script>
 <script src=http://malsup.github.com/jquery.form.js></script>
 <script type=text/javascript src=scripts/jquery_upload.js></script>
-<script src=spotlight/dist/spotlight.bundle.js></script>
+<script src=assets/spotlight.bundle.js></script>
 <link type=text/css rel=stylesheet href=sidebar.css />
 <link rel=preconnect href=https://fonts.googleapis.com>
 <link rel=preconnect href=https://fonts.gstatic.com crossorigin>
