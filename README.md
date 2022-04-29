@@ -7,7 +7,7 @@
 2. Copy full folder to your server.
 3. Open URL.
 4. Enter all details (domain/database/user information).
-5. Enjoi.
+5. Enjoi FotoHub.
 6. Remember to delete /install folder after setup!
 
 ## Demo
